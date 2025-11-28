@@ -29,3 +29,10 @@ print(sub_str)
 # length of a string
 len_str = len(sample_str)
 print("length of a string:", len_str)
+
+#Method
+sample_str = "hello"
+print(sample_str.capitalize())
+
+#split(), join(), format(), count(), strip()
+
