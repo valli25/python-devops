@@ -9,7 +9,7 @@ sample_ele = sample_list[1]
 print(sample_ele)
 
 sample_ele = sample_list[5]
-print(sample_ele)
+#print(sample_ele)
 
 sample_ele = sample_list[len(sample_list) - 1] 
 #sample_list[-1]
@@ -31,3 +31,6 @@ print(sample_list)
 sample_list = ["Ansible","Terraform","jenkins","docker","k8s"]
 sample_list.append("shell")
 print(sample_list)
+
+#Append list to list
+sample_list.append(sample_list)
