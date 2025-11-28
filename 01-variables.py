@@ -42,4 +42,19 @@ print(test_dist)
 test_Set = {'a','b', "abc"}
 print(test_Set)
 
-print(type(test_list))
+
+#add
+a = 32
+b = 45.34
+c = a+b
+print(c)
+d = a - b
+print(d)
+ 
+e = a * b
+print(e)
+
+f = 12
+g = 3
+h = f / g
+print(h, type(h))
