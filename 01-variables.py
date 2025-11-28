@@ -58,3 +58,22 @@ f = 12
 g = 3
 h = f // g
 print(h, type(h))
+
+#power
+a = 10
+print(a**2) # a2
+
+#comparion operators
+
+a = 10
+b = 20
+res = a > b
+res_1 = a < b
+res_2 = a != b
+res_3 = a == b
+print (res, res_1, res_2, res_3)
+
+#logical operators
+# AND, NOT,OR
+a = True
+b = False
