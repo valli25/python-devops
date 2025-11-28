@@ -56,5 +56,5 @@ print(e)
 
 f = 12
 g = 3
-h = f / g
+h = f // g
 print(h, type(h))
