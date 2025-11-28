@@ -3,4 +3,4 @@ print (sample_str)
 
 # How to take individual character from a string
 
-print (SAMPLE_STR[8])
+print (sample_str[8])
