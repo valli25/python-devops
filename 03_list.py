@@ -23,5 +23,11 @@ print(sliced_list)
 sliced_list_len = len(sliced_list)
 print(sliced_list_len)
 
+# list is a mutable data type
 sample_list[1] = "shell"
+print(sample_list)
+
+# append element to the list
+sample_list = ["Ansible","Terraform","jenkins","docker","k8s"]
+sample_list.append("shell")
 print(sample_list)
