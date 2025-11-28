@@ -41,3 +41,5 @@ print(test_dist)
 #set
 test_Set = {'a','b', "abc"}
 print(test_Set)
+
+print(type(test_list))
