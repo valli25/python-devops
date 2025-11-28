@@ -26,3 +26,18 @@ print(d)
 - Set
 - Dictionary
 """
+test_list = ["hello", "world", "python"]
+print(test_list)
+
+
+test_tuple = ("hello", "world", "python")
+print(test_tuple)
+
+#dist
+
+test_dist = {'a':1, 'b': 2}
+print(test_dist)
+
+#set
+test_Set = {'a','b', "abc"}
+print(test_Set)
