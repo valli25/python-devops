@@ -3,7 +3,7 @@
 # 2. tuple()
 
 # Behaviour: the are immutable
-sample_tuple = ("Ansible", "Terraform","jenkins")
+sample_tuple = ("Ansible", "Terraform","jenkins", "docker","k8")
 
 sample_ele = sample_tuple[1]
 print(sample_ele)
