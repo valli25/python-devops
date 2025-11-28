@@ -22,5 +22,10 @@ print(sub_str)
 sub_str = sample_str[::2]
 print(sub_str)
 
+# reverse a string
 sub_str = sample_str[::-1]
 print(sub_str)
+
+# length of a string
+len_str = len(sample_str)
+print("length of a string:", len_str)
