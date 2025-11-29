@@ -12,3 +12,7 @@ print(user_input, type(user_input))
 
 add_10 = int(user_input) + 10
 print(add_10)
+
+split_input = "10 100 200 400" .split(" ")
+print(split_input)
+
