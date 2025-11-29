@@ -8,7 +8,7 @@ sample_list = ["Ansible","Terraform","jenkins","docker","k8s"]
 sample_ele = sample_list[1]
 print(sample_ele)
 
-sample_ele = sample_list[5]
+#sample_ele = sample_list[5]
 #print(sample_ele)
 
 sample_ele = sample_list[len(sample_list) - 1] 
